@@ -1,3 +1,4 @@
+
 package ru.ipbalashov.ru.lesson1;
 
 public class Wall implements Hurdles {
