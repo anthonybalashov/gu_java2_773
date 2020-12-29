@@ -1,0 +1,4 @@
+package ru.ipbalashov.ru.lesson2;
+
+public class MyArraySizeException extends Exception {
+}
